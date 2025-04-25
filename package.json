@@ -1,5 +1,5 @@
 {
-  "name": "@valentynjk/monday_handlers",
+  "name": "@techtotherescue/monday_handlers",
   "version": "1.0.0",
   "description": "\"package to handle different data types from Monday\"",
   "homepage": "https://github.com/techtotherescue/monday_handlers#readme",
@@ -18,6 +18,6 @@
     "test": "exit 0"
   },
   "publishConfig": {
-  "@valentynjk:registry": "https://npm.pkg.github.com"
+  "@techtotherescue:registry": "https://npm.pkg.github.com"
 }
 }
